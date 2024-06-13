@@ -1,0 +1,17 @@
+
+h1{
+  color:white;
+}
+.header{
+  background-color: #4CAF50; /* Green background color */
+    text-align: center; /* Center the text horizontally */
+    padding: 15px 0; /* Add padding to the top and bottom */
+    position: fixed; /* Fix the position at the top */
+    width: 100%; /* Full width */
+    top: 0; /* Position at the top */
+    z-index: 100; /* Ensure it stays on top */
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    height: 60px; /* Set a fixed height for better centering */
+}
